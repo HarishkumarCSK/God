@@ -8,8 +8,14 @@ public class GodGit {
 			System.out.println("2");
 			
 		}
+
+	     private void method4() {
+		     System.out.println("4");
+	     }
+
 	    private void method3() {
 		   System.out.println("3");
+
 
 	}
 }
