@@ -8,5 +8,7 @@ public class GodGit {
 			System.out.println("2");
 			
 		}
-	   
+	   private void method4() {
+		System.out.println("4");
+	}
 }
